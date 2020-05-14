@@ -24,3 +24,7 @@
     return 0;
   }
 ```
+
+```python
+print("Hello SKY")
+```
