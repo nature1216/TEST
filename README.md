@@ -25,5 +25,5 @@ print("Hello SKY")
 | !==! | !==! | !==! | !==! |
 | auto | auto1 | auto2 | auto3 |
 
-[IT Computer Hompage][https://it.jbnu.ac.kr/]
+[IT Computer Hompage] [https://it.jbnu.ac.kr/]
 
