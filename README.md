@@ -1,9 +1,5 @@
-# creative
-# test2
 
-
-# C++ Sample project
-
+# 창의공학설계 예제 프로젝트
 -----------------------------------
 
 아래는 Hello world를 출력하는 C++코드입니다.
@@ -25,5 +21,9 @@
 print("Hello SKY")
 ```
 
+| C++11 | C++14 | C++17 | C++20 |
+| !==! | !==! | !==! | !==! |
+| auto | auto1 | auto2 | auto3 |
 
+[IT Computer Hompage][https://it.jbnu.ac.kr/]
 
