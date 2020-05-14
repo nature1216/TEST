@@ -13,6 +13,10 @@
 
 이 프로젝트는 예제 프로젝트입니다.
 
+
+-----------------------------------
+
+아래는 Hello world를 출력하는 C++코드입니다.
 ```cpp
 #include <iostream>
   
@@ -25,6 +29,11 @@
   }
 ```
 
+아래는 Hello SKY를 출력하는 python 코드입니다.
+
 ```python
 print("Hello SKY")
 ```
+
+
+
