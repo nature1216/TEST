@@ -25,5 +25,10 @@ print("Hello SKY")
 | !==! | !==! | !==! | !==! |
 | auto | auto1 | auto2 | auto3 |
 
-[IT Computer Hompage] [https://it.jbnu.ac.kr/]
+[IT Computer Hompage](https://it.jbnu.ac.kr/)
+
+### Usage
+1. Install C++
+2. Install pretobuf
+3. Compile with C++
 
